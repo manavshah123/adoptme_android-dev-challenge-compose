@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1614398673206.xml" value="0.16018518518518518" />
+        <entry key="../../../../layout/compose-model-1614399601592.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1614404693627.xml" value="0.1727195945945946" />
+        <entry key="../../../../layout/compose-model-1614433275689.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1614434355363.xml" value="0.20880766926303176" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="com.squareup.moshi.FromJson" />
+    </list>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

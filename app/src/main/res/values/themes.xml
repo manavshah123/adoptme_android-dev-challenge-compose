@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="Theme.Adoptme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF5722</item>
+        <item name="colorAccent">#FF8A65</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+
+</resources>

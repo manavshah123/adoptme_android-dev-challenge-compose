@@ -1,0 +1,112 @@
+[
+    {
+        "id": 145,
+        "name": "Labrador Retriever",
+        "type": "Dog",
+        "desc": "This large adult dog is Male.  She has a medium-length white coat with a gray spots of assorted shapes and sizes.  She has a long, broad face and is somewhat thin.  he is a picky eater, pounces anything that moves, and is very friendly.",
+        "isLiked": true,
+        "isMale":true,
+        "size": "S",
+        "location": "Bireuen, Aceh",
+        "imageName": "img1"
+    },
+    {
+        "id": 1,
+        "name": "German Shepherd",
+        "type": "Dog",
+        "desc": "This large adult dog is Male.  She has a medium-length white coat with a gray spots of assorted shapes and sizes.  She has a long, broad face and is somewhat thin.  he is a picky eater, pounces anything that moves, and is very friendly.",
+        "isLiked": false,
+        "isMale": true,
+        "size": "S",
+        "location": "Banda Aceh, Aceh",
+        "imageName": "img2"
+    },
+    {
+        "id": 2,
+        "name": "Golden Retriever",
+        "type": "Dog",
+        "desc": "This large adult dog is Male.  She has a medium-length white coat with a gray spots of assorted shapes and sizes.  She has a long, broad face and is somewhat thin.  he is a picky eater, pounces anything that moves, and is very friendly.",
+        "isLiked": true,
+        "isMale":true,
+        "size": "M",
+        "location": "Kab. Malang, Jawa Timur",
+        "imageName": "img3"
+    },
+    {
+        "id": 3,
+        "name": "French Bulldog",
+        "type": "Dog",
+        "desc": "This large adult dog is Male.  She has a medium-length white coat with a gray spots of assorted shapes and sizes.  She has a long, broad face and is somewhat thin.  he is a picky eater, pounces anything that moves, and is very friendly.",
+        "isLiked": false,
+        "isMale": true,
+        "size": "M",
+        "location": "Kota Malang, Jawa Timur",
+        "imageName": "img4"
+    },
+    {
+        "id": 4,
+        "name": "Bulldog",
+        "type": "Dog",
+        "desc": "This large adult dog is Male.  She has a medium-length white coat with a gray spots of assorted shapes and sizes.  She has a long, broad face and is somewhat thin.  he is a picky eater, pounces anything that moves, and is very friendly.",
+        "isLiked": false,
+        "isMale":true,
+        "size": "S",
+        "location": "Kota Batu, Jawa Timur",
+        "imageName": "img5"
+    },
+    {
+        "id": 5,
+        "name": "Poodle",
+        "type": "Dog",
+        "desc": "This large adult dog is Male.  She has a medium-length white coat with a gray spots of assorted shapes and sizes.  She has a long, broad face and is somewhat thin.  he is a picky eater, pounces anything that moves, and is very friendly.",
+        "isLiked": false,
+        "isMale":true,
+        "size": "S",
+        "location": "Bireuen, Aceh",
+        "imageName": "img6"
+    },
+    {
+        "id": 6,
+        "name": "Wiley",
+        "type": "Dog",
+        "desc": "This large adult dog is Male.  She has a medium-length white coat with a gray spots of assorted shapes and sizes.  She has a long, broad face and is somewhat thin.  he is a picky eater, pounces anything that moves, and is very friendly.",
+        "isLiked": false,
+        "isMale":true,
+        "size": "S",
+        "location": "Bireuen, Aceh",
+        "imageName": "cat-wiley"
+    },
+    {
+        "id": 7,
+        "name": "Beagle",
+        "type": "Dog",
+        "desc": "This large adult dog is Male.  She has a medium-length white coat with a gray spots of assorted shapes and sizes.  She has a long, broad face and is somewhat thin.  he is a picky eater, pounces anything that moves, and is very friendly.",
+        "isLiked": false,
+        "isMale":true,
+        "size": "M",
+        "location": "Kota Malang, Jawa Timur",
+        "imageName": "img7"
+    },
+    {
+        "id": 8,
+        "name": "Rottweiler",
+        "type": "Dog",
+        "desc": "This large adult dog is Male.  She has a medium-length white coat with a gray spots of assorted shapes and sizes.  She has a long, broad face and is somewhat thin.  he is a picky eater, pounces anything that moves, and is very friendly.",
+        "isLiked": true,
+        "isMale":true,
+        "size": "L",
+        "location": "Kota Batu, Jawa Timur",
+        "imageName": "img8"
+    },
+    {
+        "id": 9,
+        "name": "Pembroke Welsh Corgi",
+        "type": "Dog",
+        "desc": "This large adult dog is Male.  She has a medium-length white coat with a gray spots of assorted shapes and sizes.  She has a long, broad face and is somewhat thin.  he is a picky eater, pounces anything that moves, and is very friendly.",
+        "isLiked": false,
+        "isMale":true,
+        "size": "L",
+        "location": "Indonesia",
+        "imageName": "img9"
+    }
+]
